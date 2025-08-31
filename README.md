@@ -1,2 +1,3 @@
 # PBI-Trainning
-For Students
+First GitHub repository
+Author - Nawaz Shaikh
